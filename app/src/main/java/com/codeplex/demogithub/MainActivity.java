@@ -59,6 +59,8 @@ public class MainActivity extends AppCompatActivity {
 
         //dell laptop code
 
+        //HP laptop code
+
 
 
 
