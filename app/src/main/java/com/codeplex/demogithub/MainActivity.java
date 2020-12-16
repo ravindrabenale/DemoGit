@@ -63,6 +63,11 @@ public class MainActivity extends AppCompatActivity {
         //HP laptop code
 
 
+        //dell laptop code
+
+        //HP laptop code
+
+
 
 
 
