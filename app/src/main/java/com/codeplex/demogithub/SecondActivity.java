@@ -23,5 +23,20 @@ public class SecondActivity extends AppCompatActivity {
           //Added Resbuse builting Master
 
         //Added Resbuse builting
+
+
+
+        //new Activty
+
+        //new user codeplex
+
+
+
+        //Added Second Activity Code
+
+
+        //Added Resbuse builting Master
+
+        //Added Resbuse builting
     }
 }
