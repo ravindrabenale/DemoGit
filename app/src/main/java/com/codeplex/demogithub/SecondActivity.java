@@ -15,5 +15,9 @@ public class SecondActivity extends AppCompatActivity {
 
         //new user codeplex
 
+
+
+        //Added Second Activity Code
+
     }
 }
