@@ -14,8 +14,5 @@ public class ThirdActivity extends AppCompatActivity {
         //Added new activity
         //Added pornima code
 
-
-
-
     }
 }
