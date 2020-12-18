@@ -12,6 +12,7 @@ public class ThirdActivity extends AppCompatActivity {
         setContentView(R.layout.activity_third);
 
         //Added new activity
+        //Added pornima code
 
 
     }
