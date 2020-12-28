@@ -14,8 +14,8 @@ public class SecondActivity extends AppCompatActivity {
         //new Activty
         //new user codeplex
         //Added Second Activity Code
-
         //Testing Second
+        //Merge with change Second
 
     }
 }
