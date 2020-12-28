@@ -13,90 +13,12 @@ public class MainActivity extends AppCompatActivity {
 
 
         //This is Version One Code
-
-
-
-
         //This is new Code Verion Oneeeeee
-
-
         //New Code Here Version 2
-
-
         //This Version Second Code
 
-        //Testing
+        //Testing Main
 
-
-        //Testing
-
-
-        //Version 3
-
-        //version 3
-
-        //Version 3
-
-        //version 3
-
-
-
-
-
-
-
-        //Testing User
-
-        //Testing User
-
-        //Testing User
-
-
-        //Rebase
-
-
-
-
-
-        //dell laptop code
-
-        //HP laptop code
-
-
-        //dell laptop code
-
-        //HP laptop code
-
-
-
-
-
-
-
-
-        //Testing User
-
-        //Testing User
-
-        //Testing User
-
-
-        //Rebase
-
-
-
-
-
-        //dell laptop code
-
-        //HP laptop code
-
-
-        //dell laptop code
-
-        //HP laptop code
-
-      //Merging Final
 
 
 
